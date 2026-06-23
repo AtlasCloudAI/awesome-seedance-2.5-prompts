@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
-> A curated collection of Seedance 2.5 video prompts — each with real previews generated via Atlas Cloud. ~20% better quality, up to 30s, native 4K. Cinematic, anime, UGC, ads, meme & more.
+> A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
@@ -50,7 +50,7 @@
 
 ## 🤔 Seedance 2.5 Overview
 
-Seedance 2.5 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.
+Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second native clips (up from 15s) for complete scenes without stitching; up to 50 multimodal references (image / video / audio) — the largest reference capacity in its class — for precise reference-driven control; and flexible region editing to swap backgrounds, products or subjects without breaking the rest of the shot. It keeps 2.0's multimodal audio-video generation, adds ~20% better prompt adherence and native 4K — great for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix.
 
 - Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.
 - When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.
@@ -71,7 +71,7 @@ Seedance 2.5 is the upgrade to Seedance 2.0 — roughly a 20% improvement in gen
 | Total Prompts | **94** |
 | Categories | **11** |
 | Preview Videos | **88** |
-| Last Updated | **2026-06-23T12:01:04.034Z** |
+| Last Updated | **2026-06-23T16:37:21.458Z** |
 
 ## 🏷️ Browse by Category
 
@@ -2280,4 +2280,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-23T12:01:04.034Z
+> This README is auto-generated. 2026-06-23T16:37:21.458Z

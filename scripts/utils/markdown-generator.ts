@@ -147,7 +147,7 @@ function renderModelIntro(locale: string): string {
     return [
       "## 🤔 Seedance 2.5 模型简介",
       "",
-      "Seedance 2.5 是 Seedance 2.0 的升级版：生成质量相比 2.0 提升约 20%，最长时长从 15 秒提升到 30 秒，并支持 4K 原生输出。它延续 2.0 的多模态视频生成能力，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
+      "Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒原生输出（从 15 秒翻倍），完整场景一镜到底、无需拼接；② 最多 50 个全模态参考素材（图片 / 视频 / 音频），同类最大参考容量，精准的参考驱动创作；③ 灵活的局部编辑，可单独替换背景、产品或主体而不破坏画面其余部分。延续 2.0 的多模态音画生成，叠加约 20% 的提示词遵循提升与原生 4K，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
       "",
       "- 建议先明确主体、场景、动作，再补充镜头语言、节奏和风格细节。",
       "- 涉及参考图、参考视频或配音时，提示词里可以直接使用 `@image1`、`@video1`、`@audio1` 这样的占位符。",
@@ -168,7 +168,7 @@ function renderModelIntro(locale: string): string {
     return [
       "## 🤔 Seedance 2.5 模型簡介",
       "",
-      "Seedance 2.5 是 Seedance 2.0 的升級版：生成品質相比 2.0 提升約 20%，最長時長從 15 秒提升到 30 秒，並支援 4K 原生輸出。它延續 2.0 的多模態影片生成能力，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
+      "Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒原生輸出（從 15 秒翻倍），完整場景一鏡到底、無需拼接；② 最多 50 個全模態參考素材（圖片 / 影片 / 音訊），同類最大參考容量，精準的參考驅動創作；③ 靈活的局部編輯，可單獨替換背景、產品或主體而不破壞畫面其餘部分。延續 2.0 的多模態音畫生成，疊加約 20% 的提示詞遵循提升與原生 4K，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
       "",
       "- 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。",
       "- 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。",
@@ -188,7 +188,7 @@ function renderModelIntro(locale: string): string {
   return [
     "## 🤔 Seedance 2.5 Overview",
     "",
-    "Seedance 2.5 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
+    "Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second native clips (up from 15s) for complete scenes without stitching; up to 50 multimodal references (image / video / audio) — the largest reference capacity in its class — for precise reference-driven control; and flexible region editing to swap backgrounds, products or subjects without breaking the rest of the shot. It keeps 2.0's multimodal audio-video generation, adds ~20% better prompt adherence and native 4K — great for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix.",
     "",
     "- Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.",
     "- When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.",

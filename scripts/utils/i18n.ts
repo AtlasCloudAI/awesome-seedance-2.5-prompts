@@ -62,7 +62,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 
 const en: Translation = {
   title: "Awesome Seedance 2.5 Prompts",
-  subtitle: "A curated collection of Seedance 2.5 video prompts — each with real previews generated via Atlas Cloud. ~20% better quality, up to 30s, native 4K. Cinematic, anime, UGC, ads, meme & more.",
+  subtitle: "A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.",
   copyright: "All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.",
   current: "Current",
   view: "View",
@@ -95,7 +95,7 @@ const en: Translation = {
 const zh: Translation = {
   ...en,
   title: "Seedance 2.5 提示词大全",
-  subtitle: "基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。质量较 2.0 提升约 20%，最长 30 秒，原生 4K。",
+  subtitle: "基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。30 秒原生 · 50 个全模态参考 · 灵活局部编辑。",
   copyright: "所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。",
   current: "当前",
   view: "查看",
@@ -128,7 +128,7 @@ const zh: Translation = {
 const zhTW: Translation = {
   ...zh,
   title: "Seedance 2.5 提示詞大全",
-  subtitle: "基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。品質較 2.0 提升約 20%，最長 30 秒，原生 4K。",
+  subtitle: "基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。30 秒原生 · 50 個全模態參考 · 靈活局部編輯。",
   copyright: "所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。",
   current: "目前",
   stats: "統計資料",

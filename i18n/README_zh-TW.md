@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
-> 基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。品質較 2.0 提升約 20%，最長 30 秒，原生 4K。
+> 基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。30 秒原生 · 50 個全模態參考 · 靈活局部編輯。
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
@@ -50,7 +50,7 @@
 
 ## 🤔 Seedance 2.5 模型簡介
 
-Seedance 2.5 是 Seedance 2.0 的升級版：生成品質相比 2.0 提升約 20%，最長時長從 15 秒提升到 30 秒，並支援 4K 原生輸出。它延續 2.0 的多模態影片生成能力，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。
+Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒原生輸出（從 15 秒翻倍），完整場景一鏡到底、無需拼接；② 最多 50 個全模態參考素材（圖片 / 影片 / 音訊），同類最大參考容量，精準的參考驅動創作；③ 靈活的局部編輯，可單獨替換背景、產品或主體而不破壞畫面其餘部分。延續 2.0 的多模態音畫生成，疊加約 20% 的提示詞遵循提升與原生 4K，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。
 
 - 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。
 - 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。
@@ -71,7 +71,7 @@ Seedance 2.5 是 Seedance 2.0 的升級版：生成品質相比 2.0 提升約 20
 | 提示詞總數 | **94** |
 | 分類數 | **11** |
 | 預覽影片數 | **88** |
-| 最後更新 | **2026-06-23T12:01:04.021Z** |
+| 最後更新 | **2026-06-23T16:37:21.425Z** |
 
 ## 🏷️ 按分類瀏覽
 
@@ -2280,4 +2280,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-06-23T12:01:04.021Z
+> 此 README 為自動生成。 2026-06-23T16:37:21.425Z
