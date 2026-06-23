@@ -1,8 +1,8 @@
 import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
 import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
-const REPO = "awesome-seedance-2.1-prompts";
-const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts";
+const REPO = "awesome-seedance-2.5-prompts";
+const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts";
 const UTM = `?utm_source=github&utm_campaign=${REPO}`;
 
 function buildCategoryAnchor(index: number): string {
@@ -14,18 +14,18 @@ function buildLocalePrefix(locale: string): string {
 }
 
 function buildPromptLibraryUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2.1-prompt${UTM}`;
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2.5-prompt${UTM}`;
 }
 
 function buildModelUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.1/text-to-video${UTM}`;
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.5/text-to-video${UTM}`;
 }
 
 function renderBadges(promptCount: number): string {
   return [
     "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)",
     `[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)`,
-    `[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.1-prompts?style=social)](${REPO_URL})`,
+    `[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](${REPO_URL})`,
     `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](${REPO_URL}/pulls)`,
     `[![Prompts](https://img.shields.io/badge/prompts-${promptCount}%2B-blue.svg)](${REPO_URL})`,
   ].join("\n");
@@ -35,7 +35,7 @@ function renderSupportedModels(): string {
   return [
     "## 🧩 Supported Models",
     "",
-    "- 🎬 **Video** — Seedance 2.1 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
+    "- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
     "- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
     "- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid",
     "- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen",
@@ -145,9 +145,9 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 function renderModelIntro(locale: string): string {
   if (locale === "zh") {
     return [
-      "## 🤔 Seedance 2.1 模型简介",
+      "## 🤔 Seedance 2.5 模型简介",
       "",
-      "Seedance 2.1 是 Seedance 2.0 的升级版：生成质量相比 2.0 提升约 20%，最长时长从 15 秒提升到 30 秒，并支持 4K 原生输出。它延续 2.0 的多模态视频生成能力，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
+      "Seedance 2.5 是 Seedance 2.0 的升级版：生成质量相比 2.0 提升约 20%，最长时长从 15 秒提升到 30 秒，并支持 4K 原生输出。它延续 2.0 的多模态视频生成能力，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
       "",
       "- 建议先明确主体、场景、动作，再补充镜头语言、节奏和风格细节。",
       "- 涉及参考图、参考视频或配音时，提示词里可以直接使用 `@image1`、`@video1`、`@audio1` 这样的占位符。",
@@ -166,9 +166,9 @@ function renderModelIntro(locale: string): string {
 
   if (locale === "zh-TW") {
     return [
-      "## 🤔 Seedance 2.1 模型簡介",
+      "## 🤔 Seedance 2.5 模型簡介",
       "",
-      "Seedance 2.1 是 Seedance 2.0 的升級版：生成品質相比 2.0 提升約 20%，最長時長從 15 秒提升到 30 秒，並支援 4K 原生輸出。它延續 2.0 的多模態影片生成能力，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
+      "Seedance 2.5 是 Seedance 2.0 的升級版：生成品質相比 2.0 提升約 20%，最長時長從 15 秒提升到 30 秒，並支援 4K 原生輸出。它延續 2.0 的多模態影片生成能力，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
       "",
       "- 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。",
       "- 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。",
@@ -186,9 +186,9 @@ function renderModelIntro(locale: string): string {
   }
 
   return [
-    "## 🤔 Seedance 2.1 Overview",
+    "## 🤔 Seedance 2.5 Overview",
     "",
-    "Seedance 2.1 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
+    "Seedance 2.5 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
     "",
     "- Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.",
     "- When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.",

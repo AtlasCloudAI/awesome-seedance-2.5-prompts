@@ -1,16 +1,16 @@
-# 🎬 Awesome Seedance 2.1 Prompts
+# 🎬 Awesome Seedance 2.5 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.1-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
-> A curated collection of Seedance 2.1 video prompts — each with real previews generated via Atlas Cloud. ~20% better quality, up to 30s, native 4K. Cinematic, anime, UGC, ads, meme & more.
+> A curated collection of Seedance 2.5 video prompts — each with real previews generated via Atlas Cloud. ~20% better quality, up to 30s, native 4K. Cinematic, anime, UGC, ads, meme & more.
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.1-prompts/blob/main/i18n/README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,17 +28,17 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/sv/seedance-2.1-prompt?utm_source=github&utm_campaign=awesome-seedance-2.1-prompts)
-- Model Page: [View](https://www.atlascloud.ai/sv/models/bytedance/seedance-2.1/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.1-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/sv/seedance-2.5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- Model Page: [View](https://www.atlascloud.ai/sv/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
 
 ## 🧩 Supported Models
 
-- 🎬 **Video** — Seedance 2.1 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.1-prompts)
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -46,11 +46,11 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.1-prompts)**
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)**
 
-## 🤔 Seedance 2.1 Overview
+## 🤔 Seedance 2.5 Overview
 
-Seedance 2.1 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.
+Seedance 2.5 is the upgrade to Seedance 2.0 — roughly a 20% improvement in generation quality, max duration extended from 15s to 30s, and native 4K output. It keeps 2.0's multimodal video generation (text, image, video, and audio inputs) and is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.
 
 - Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.
 - When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.
@@ -71,7 +71,7 @@ Seedance 2.1 is the upgrade to Seedance 2.0 — roughly a 20% improvement in gen
 | Total Prompts | **94** |
 | Categories | **11** |
 | Preview Videos | **88** |
-| Last Updated | **2026-06-15T11:09:45.755Z** |
+| Last Updated | **2026-06-23T12:01:04.038Z** |
 
 ## 🏷️ Browse by Category
 
@@ -2274,10 +2274,10 @@ npm run build-all
 - [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
 - [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
 - [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.1-prompts) — explore all models and docs.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts) — explore all models and docs.
 
 ## 📄 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T11:09:45.755Z
+> This README is auto-generated. 2026-06-23T12:01:04.038Z

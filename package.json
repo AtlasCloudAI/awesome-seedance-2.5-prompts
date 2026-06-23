@@ -1,7 +1,7 @@
 {
-  "name": "awesome-seedance-2.1-prompts",
+  "name": "awesome-seedance-2.5-prompts",
   "version": "1.0.0",
-  "description": "Curated collection of Seedance 2.1 prompts sourced from homepage-v2",
+  "description": "Curated collection of Seedance 2.5 prompts sourced from homepage-v2",
   "type": "module",
   "scripts": {
     "sync": "tsx scripts/sync-homepage-data.ts",
